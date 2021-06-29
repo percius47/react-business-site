@@ -34,26 +34,26 @@ export const homeObjTwo={
 
 }
 
-export const homeObjThree={
-    id:'about',
-    lightBg:false,
-    lightText:true,
-    lightTextDesc:true,
-    topLine:'Premium Bank',
-    headLine:'Unlimited transactions with zero fees',
-    description:'Get access to our exclusive app that allows you to rob a bank and not get caught.',
-    buttonLabel:'Get Started',
-    imgStart:false,
-     img: require('../../images/svg-3.svg').default,
-    alt:'Car',
-    dark:true,
-    primary:true,
-    darkText:false
+// export const homeObjThree={
+//     id:'services',
+//     lightBg:false,
+//     lightText:true,
+//     lightTextDesc:true,
+//     topLine:'Premium Bank',
+//     headLine:'Unlimited transactions with zero fees',
+//     description:'Get access to our exclusive app that allows you to rob a bank and not get caught.',
+//     buttonLabel:'Get Started',
+//     imgStart:false,
+//      img: require('../../images/svg-3.svg').default,
+//     alt:'Car',
+//     dark:true,
+//     primary:true,
+//     darkText:false
 
-}
+// }
 
 export const homeObjFour={
-    id:'discoveries',
+    id:'signup',
     lightBg:true,
     lightText:false,
     lightTextDesc:false,
