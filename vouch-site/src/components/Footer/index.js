@@ -87,8 +87,8 @@ const Footer = () => {
                </FooterLinksContainer> 
             <SocialMedia>
                 <SocialMediaWrap>
-                    <SocialLogo to="/" onClick={toggleHome}>Vouch Systems </SocialLogo>
-               <WebsiteRight>Vouch Systems© {new Date().getFullYear()}All rights reserved.</WebsiteRight>
+                    <SocialLogo to="/" onClick={toggleHome}>Works47 </SocialLogo>
+               <WebsiteRight>Works47© {new Date().getFullYear()} All rights reserved.</WebsiteRight>
                <SocialIcons>
                    <SocialIconLink href="/" target="_blank" aria-label="Facebook">
                        <FaFacebook/>

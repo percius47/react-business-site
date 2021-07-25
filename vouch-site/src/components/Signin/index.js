@@ -19,7 +19,7 @@ const SignIn = () => {
         <div>
             <Container>
                 <FormWrap>
-                <Icon to="/">Vouch Systems </Icon>
+                <Icon to="/">Works47 </Icon>
                 <FormContent>
                 <Form>
                     <FormH1>Sign in to your Account</FormH1>
